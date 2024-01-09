@@ -1,6 +1,6 @@
 # swiper-draggable
 
-swiper를 이용한 효과 스크립트
+swiper를 이용하여 슬라이딩 내에서 드래그정도에 따라 오브젝트에 효과 적용 스크립트
 
 ## swiper draggable 효과
 ![help](https://github.com/suyoungpk/swiper-draggable/assets/22670967/96a343ab-4cb2-4d92-8fd3-4942c081f094)

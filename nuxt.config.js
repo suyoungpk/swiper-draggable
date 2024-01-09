@@ -15,7 +15,10 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-
+  target: 'static',
+  router: {
+    base: '/swiper-draggable/'
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['~/assets/style/app.css'],
 
